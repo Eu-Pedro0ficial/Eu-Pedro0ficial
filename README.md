@@ -3,7 +3,7 @@
     
 - 🔭  Hoje trabalho com desenvolvimento Front-end;
 - 🌱  Venho aprendendo mais sobre Back-end com PHP;
-- 👯  Estou voltado a contribuir mais com projetos de codigo aberto;
+- 👯  Tenho procurado contribuir com projetos de codigo aberto;
 - 📚  Inglês basico.
 
 <div style="display: inline-block">
